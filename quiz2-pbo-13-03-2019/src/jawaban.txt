@@ -1,6 +1,14 @@
 Tulis jawaban no 6 disini:
-NIM:
-NAMA:
+NIM:1603489
+NAMA:Rayhan Zafiar
 
 
 
+1. Menu tanpa error handling
+2. Penggunaan Class Barang dirasa tidak cukup, karena 
+makanan memiliki fungsi yang berbeda yaitu untuk menambah
+kesehatan. dibuat inheritance makanan yang memiliki atribut
+int kesehatan, sehingga makanan bisa dengan leluasa ditambahkan
+3. penggunaan barang yang sama
+dengan kondisi yang berbeda masih bisa digunakan
+status terkunci tidak digunakan pada pengondisian apapun
